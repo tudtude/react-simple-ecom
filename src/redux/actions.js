@@ -1,0 +1,4 @@
+module.exports = {
+    ADDTOCART:'ADDTOCART',
+    REMOVEFROMCART:'REMOVEFROMCART'
+}
